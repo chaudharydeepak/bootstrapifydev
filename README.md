@@ -20,7 +20,7 @@ $ cd application_directory
 $ mvn clean spring-boot:run
 ```
 
-
+![Alt text](https://user-images.githubusercontent.com/931030/50751517-c0cd4c00-120f-11e9-9290-eef81896d819.PNG "Optional title")
 
 ### Development
 Want to contribute? Great! Directions forthcoming.
